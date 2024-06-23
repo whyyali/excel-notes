@@ -1,0 +1,19 @@
+Excel Notes
+
+#Tabs#
+home        Alt + H
+insert      Alt + N
+Page layout Alt + P
+data        Alt + A
+view        Alt + W
+formula     Alt + M
+
+#Text Align#
+left        Alt + H, A, L
+right       Alt + H, A, R
+center      Alt + H, A, C
+
+#Open Dialog#
+format      Ctrl + 1
+delete      Ctrl + minus
+insert      Ctrl + shift + plus
