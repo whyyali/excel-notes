@@ -17,3 +17,17 @@ center      Alt + H, A, C
 format      Ctrl + 1
 delete      Ctrl + minus
 insert      Ctrl + shift + plus
+
+#Text Function#
+Concatenate   	=CONCATENATE(address1, “ ”, address2, “ ”, address3)
+Lower 		=LOWER(address of cell)
+Upper 		=UPPER(address of cell)
+Proper		=PROPER(address of cell)
+Length 		=LENGTH(address of cell)
+Left		=LEFT(address of cell)
+Right 		=RIGHT(address of cell)
+Mid 		=MID(address of cell)
+Find		=FIND(text, address of cell means range)
+Search		=SEARCH(text, address of cell means range)
+Replace 	=REPLACE(old_text, startnum, num_of_chars, new_text)
+Substitute	=SUBSTITUTE(text, old_text, new_text, [instance num])
