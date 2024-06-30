@@ -31,3 +31,5 @@ Find		=FIND(text, address of cell means range)
 Search		=SEARCH(text, address of cell means range)
 Replace 	=REPLACE(old_text, startnum, num_of_chars, new_text)
 Substitute	=SUBSTITUTE(text, old_text, new_text, [instance num])
+
+##
